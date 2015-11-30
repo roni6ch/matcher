@@ -1,0 +1,17 @@
+/* ----------------------------------------------------
+   created with http://www.codeandweb.com/texturepacker 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:f2172899b09b3a3cb442e62bd5b8a196:3adf0729d2bb099209e3116c342f4eca:1e9ea531edb030fd06c741d8d5dec72b$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(sprite.png);}
+
+.facebook {width:390px; height:90px; background-position: -394px -2px}
+.logo {width:390px; height:90px; background-position: -394px -94px}
+.logoImg {width:390px; height:220px; background-position: -2px -2px}

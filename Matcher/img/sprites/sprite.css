@@ -1,0 +1,41 @@
+/* ----------------------------------------------------
+   created with http://www.codeandweb.com/texturepacker 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:6f1f2e06fb34afb88ab408fa5fb13bd2:75bd268bbd6a70d6edd41d111319afc9:1e9ea531edb030fd06c741d8d5dec72b$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(sprite.png);}
+
+.AgeIcon {width:80px; height:80px; background-position: -2px -2px}
+.Login {width:390px; height:103px; background-position: -84px -2px}
+.LoginPress {width:390px; height:103px; background-position: -476px -2px}
+.acedamyIcon {width:80px; height:80px; background-position: -868px -2px}
+.edit {width:50px; height:50px; background-position: -950px -2px}
+.educationIcon {width:80px; height:80px; background-position: -1002px -2px}
+.exitIcon {width:32px; height:32px; background-position: -1084px -2px}
+.filterIcon {width:32px; height:32px; background-position: -1118px -2px}
+.genderIcon {width:80px; height:80px; background-position: -1152px -2px}
+.leftArrow {width:100px; height:100px; background-position: -2px -107px}
+.likeIcon {width:32px; height:32px; background-position: -104px -107px}
+.logo {width:390px; height:90px; background-position: -138px -107px}
+.logo2 {width:126px; height:139px; background-position: -530px -107px}
+.logoHead {width:70px; height:60px; background-position: -658px -107px}
+.logoHeadRed {width:70px; height:60px; background-position: -730px -107px}
+.logoHeader {width:89px; height:50px; background-position: -802px -107px}
+.logoImg {width:390px; height:220px; background-position: -893px -107px}
+.menu {width:47px; height:41px; background-position: -2px -329px}
+.messagesIcon {width:32px; height:32px; background-position: -51px -329px}
+.profileIcon {width:32px; height:32px; background-position: -85px -329px}
+.rightArrow {width:100px; height:100px; background-position: -119px -329px}
+.signUp {width:390px; height:103px; background-position: -221px -329px}
+.signUpPress {width:390px; height:103px; background-position: -613px -329px}
+.star {width:50px; height:48px; background-position: -1005px -329px}
+.starProfile {width:100px; height:96px; background-position: -1057px -329px}
+.yellowStar {width:50px; height:50px; background-position: -1159px -329px}
+.yellowStarProfile {width:100px; height:100px; background-position: -1211px -329px}
